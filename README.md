@@ -10,6 +10,7 @@
 2017.8.23|项目初始化|new project submarine|
 2017.8.23|项目进度描述|project imformation|
 2017.8.23|游戏框架类|Gameframe|
+2017.8.24|导入船舰包资源|package resource|
 
 
 
