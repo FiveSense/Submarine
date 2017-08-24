@@ -13,6 +13,7 @@
 2017.8.24|导入船舰包资源|package resource|
 2017.8.24|pawn的摄像机旋转设置|pawn camera|
 2017.8.24|海洋模拟、物体沉浮模拟|ocean simulate|
+2017.8.24|物体沉浮优化、物体下沉测试、环境改变|sunk test|
 
 
 
