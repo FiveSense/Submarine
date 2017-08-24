@@ -7,13 +7,14 @@
 ## 1. 日程表
 日期|更新内容|Commit 信息|
 ---|---|---|
-2017.8.23|项目初始化|new project submarine|
-2017.8.23|项目进度描述|project imformation|
-2017.8.23|游戏框架类|Gameframe|
-2017.8.24|导入船舰包资源|package resource|
-2017.8.24|pawn的摄像机旋转设置|pawn camera|
-2017.8.24|海洋模拟、物体沉浮模拟|ocean simulate|
-2017.8.24|物体沉浮优化、物体下沉测试、环境改变|sunk test|
+2017.8.23dhh|项目初始化|new project submarine|
+2017.8.23dhh|项目进度描述|project imformation|
+2017.8.23dhh|游戏框架类|Gameframe|
+2017.8.24dhh|导入船舰包资源|package resource|
+2017.8.24dhh|pawn的摄像机旋转设置|pawn camera|
+2017.8.24dhh|海洋模拟、物体沉浮模拟|ocean simulate|
+2017.8.24dhh|物体沉浮优化、物体下沉测试、环境改变|sunk test|
+2017.8.24dhh|敌舰运动测试|ship test|
 
 
 
