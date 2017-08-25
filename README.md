@@ -16,6 +16,7 @@
 2017.8.24dhh|物体沉浮优化、物体下沉测试、环境改变|sunk test|
 2017.8.24dhh|敌舰运动测试|ship test|
 2017.8.25dhh|潜艇转向完成|submarine turn|
+2017.8.25dhh|潜艇转向修复|turn fix|
 
 
 
