@@ -24,6 +24,7 @@
 2017.8.30.14|Arduino代码测试|arduino data|
 2017.8.30.17|导弹发射、导弹视角、视角切换|Missile test finish|
 2017.8.31.10|潜艇发射定向或者导航鱼雷|Fire Missile|
+2017.8.31.14|材质、光照、飞行等杂项调整|adjust|
 
 
 
